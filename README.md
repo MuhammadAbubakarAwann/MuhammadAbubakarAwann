@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Muhammad Abubakar Awan
 
-<!--
-**MuhammadAbubakarAwann/MuhammadAbubakarAwann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Engineer | MERN Stack | Next.js | Flutter | AR Navigation
 
-Here are some ideas to get you started:
+- 🔭 Currently working on AR-based Smart Shopping FYP
+- 🌱 Learning Advanced Backend Architecture
+- 💡 Interested in AI + AR + Full Stack Development
+- ⚡ Fun fact: I build real-world solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+Frontend:
+React.js, Next.js, Flutter
+
+Backend:
+Node.js, Express.js, Prisma
+
+Database:
+MongoDB, PostgreSQL
+
+Tools:
+Firebase, Unity, Immersal SDK, Git
+
+---
+
+## 📊 GitHub Stats
+
+(Stats cards here)
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn | Portfolio | Email
